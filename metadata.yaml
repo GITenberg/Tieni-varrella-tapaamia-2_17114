@@ -1,0 +1,30 @@
+_repo: Tieni-varrella-tapaamia-2_17114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Friberg, Maikki
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '6675'
+    url: http://www.gutenberg.org/2009/agents/6675
+    wikipedia: http://fi.wikipedia.org/wiki/Maikki_Friberg
+description: ''
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17114'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography -- 19th century'
+- !lcc 'CT'
+tableOfContents: Minette Donner -- Fanny Sinebrychoff -- Professori N. C. Frederiksen
+  -- Mathilde Wergeland -- Alvilde Prydz -- Karl Gjellerup -- Minna Cauer -- Herman
+  Grimm -- Ystävykset -- Zenaïda Maslowski.
+title: Tieni varrella tapaamia 2
+url: http://www.gutenberg.org/ebooks/17114
